@@ -15,6 +15,8 @@ Simple and easy to use.
 
 Python 3.x
 
+PyCharm 2024.3.2, build PC-243.23654.177. Copyright JetBrains s.r.o., (c) 2000-2025
+
 ## Sample input/Output
 
 Welcome to Sujai's Random Password Generator!
